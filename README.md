@@ -1,1 +1,3 @@
 # NDII_33km
+
+Google Colab notebook to quickly compute water-masked Landsat Normalized Difference Infrared Index (NDII) in 1- to 33-km-diameter circles for user-input geographic location, date range, and cloud cover percentage. Outputs include an interactive NDII time series plot, interactive map of Landsat NDII overlaid on high-resolution visible imagery at the area of interest, and downloadable data files in TXT format. NAIP image availability and reflectance time series at the input point are also provided. The notebook was used to assess the spatial representativeness of National Ecological Observatory Network (NEON) sites throughout the US, for surrounding regions, to support SMAP soil moisture validation in 33-km domains.
